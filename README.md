@@ -1,4 +1,3 @@
-````markdown
 <!-- ======================= HEADER ======================= -->
 
 <div align="center">
@@ -7,11 +6,11 @@
 
 </div>
 
-<!-- ======================= TYPING ANIMATION ======================= -->
+<!-- ======================= TYPING ======================= -->
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;Backend+%26+Django+Developer+%F0%9F%8C%90;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;RAG+%26+LLM+Developer+%F0%9F%A7%A0;Building+AI-Powered+Products+%F0%9F%9A%80" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=850&lines=Python+Developer+%F0%9F%90%8D;Backend+Developer+%F0%9F%8C%90;AI+%26+Generative+AI+Enthusiast+%F0%9F%A4%96;RAG+%26+LLM+Developer+%F0%9F%A7%A0;Building+AI-Powered+Products+%F0%9F%9A%80" />
 
 </div>
 
@@ -66,7 +65,11 @@ into useful, production-oriented products.
 
 </div>
 
-<br>
+### Technologies
+
+`Python` `Java`
+
+---
 
 ## 🌐 Backend Development
 
@@ -76,12 +79,12 @@ into useful, production-oriented products.
 
 </div>
 
-**Technologies**
+### Technologies
 
 `Django` `Django REST Framework` `FastAPI` `REST APIs`
 `Authentication` `PostgreSQL`
 
-<br>
+---
 
 ## 🤖 AI / ML / Generative AI
 
@@ -91,19 +94,19 @@ into useful, production-oriented products.
 
 </div>
 
-**Technologies**
+### Technologies
 
 `Generative AI` `LLMs` `RAG` `LangChain`
 `NLP` `Embeddings` `Vector Search`
 `FAISS` `Prompt Engineering` `AI Agents`
 
-<br>
+---
 
 ## 📊 Data & Analytics
 
 `NumPy` `Pandas` `Matplotlib` `Seaborn` `Power BI` `DAX`
 
-<br>
+---
 
 ## 🧰 Tools
 
@@ -153,18 +156,18 @@ can generate responses using relevant information from a knowledge base.
                    │
                    ▼
              🤖 AI Response
-````
+```
 
 ### 🧠 Concepts
 
-* Retrieval-Augmented Generation
-* Large Language Models
-* Embeddings
-* Vector Search
-* Context Retrieval
-* Prompt Engineering
-* Natural Language Processing
-* Conversational AI
+- Retrieval-Augmented Generation
+- Large Language Models
+- Embeddings
+- Vector Search
+- Context Retrieval
+- Prompt Engineering
+- Natural Language Processing
+- Conversational AI
 
 > 🎓 **Status: Completed — Final Year Project**
 
@@ -177,11 +180,11 @@ can generate responses using relevant information from a knowledge base.
 I'm currently building a **product-oriented AI Document Assistant** using
 Retrieval-Augmented Generation.
 
-The goal is to create a real deployable AI product where users can upload
-their documents and interact with them through an intelligent conversational
+The goal is to create a deployable AI product where users can upload
+documents and interact with them through an intelligent conversational
 interface.
 
-### 💡 Architecture
+### 💡 Planned Architecture
 
 ```text
               📄 User Documents
@@ -211,23 +214,23 @@ interface.
                🤖 AI Response
 ```
 
-### 🚀 Features
+### 🚀 Planned Features
 
-* 📄 Multiple document uploads
-* 📚 PDF / TXT / DOCX support
-* 🔍 Semantic search
-* 🧩 Intelligent document chunking
-* 🧠 Embeddings
-* 🗄️ Vector search
-* 🤖 LLM-powered answers
-* 📖 Retrieval-Augmented Generation
-* 💬 Conversational memory
-* 🔐 User authentication
-* 👤 User-specific document isolation
-* 📌 Source citations
-* ⚡ Streaming AI responses
-* 🌐 Modern web interface
-* 🚀 Cloud deployment
+- 📄 Multiple document uploads
+- 📚 PDF / TXT / DOCX support
+- 🔍 Semantic search
+- 🧩 Intelligent document chunking
+- 🧠 Embeddings
+- 🗄️ Vector search
+- 🤖 LLM-powered answers
+- 📖 Retrieval-Augmented Generation
+- 💬 Conversational memory
+- 🔐 User authentication
+- 👤 User-specific document isolation
+- 📌 Source citations
+- ⚡ Streaming AI responses
+- 🌐 Modern web interface
+- 🚀 Cloud deployment
 
 ### 🛠️ Technology Stack
 
@@ -263,12 +266,12 @@ data-related job market information.
 
 ### 🔹 Highlights
 
-* Data analysis and visualization
-* Interactive dashboards
-* KPI creation
-* DAX calculations
-* Job market analysis
-* Skill and salary exploration
+- Data analysis and visualization
+- Interactive dashboards
+- KPI creation
+- DAX calculations
+- Job market analysis
+- Skill and salary exploration
 
 **Tech:** `Power BI` `DAX` `Data Analysis`
 
@@ -291,16 +294,16 @@ A repository where I practice Django and backend development concepts.
 
 ### Topics
 
-* Django fundamentals
-* Models
-* Views
-* Templates
-* CRUD operations
-* Authentication
-* Database integration
-* REST APIs
-* Django REST Framework
-* Backend architecture
+- Django fundamentals
+- Models
+- Views
+- Templates
+- CRUD operations
+- Authentication
+- Database integration
+- REST APIs
+- Django REST Framework
+- Backend architecture
 
 ---
 
@@ -311,13 +314,13 @@ Artificial Intelligence, Python, and Data Science.
 
 ### Topics
 
-* Machine Learning
-* Artificial Intelligence
-* Python
-* Data Science
-* ML Algorithms
-* Model Training
-* Model Evaluation
+- Machine Learning
+- Artificial Intelligence
+- Python
+- Data Science
+- ML Algorithms
+- Model Training
+- Model Evaluation
 
 ---
 
@@ -346,22 +349,20 @@ Python
 
 # 🌱 My Learning Journey
 
-<div align="center">
-
 ```text
                  🐍 PYTHON
                     │
                     ▼
-          🧩 DATA STRUCTURES
+            🧩 DATA STRUCTURES
                     │
                     ▼
-             🌐 DJANGO / API
+              🌐 DJANGO / API
                     │
                     ▼
               📊 DATA ANALYSIS
                     │
                     ▼
-           🤖 MACHINE LEARNING
+            🤖 MACHINE LEARNING
                     │
                     ▼
              ✨ GENERATIVE AI
@@ -376,31 +377,25 @@ Python
                ⚡ AI AGENTS
                     │
                     ▼
-            🚀 PRODUCTION AI
+             🚀 PRODUCTION AI
                     │
                     ▼
-              🌌 AI PRODUCTS
+               🌌 AI PRODUCTS
 ```
-
-</div>
 
 ---
 
 # 🎯 Current Focus
 
-<div align="center">
-
-| Area         | Focus                                 |
-| ------------ | ------------------------------------- |
-| 🐍 Python    | Advanced Python & Problem Solving     |
-| 🌐 Backend   | Django, DRF & APIs                    |
-| 🤖 AI        | Generative AI & LLM Applications      |
-| 🧠 RAG       | Retrieval, Embeddings & Vector Search |
-| 🔗 AI Agents | LangChain & Tool Calling              |
-| 📊 Data      | Pandas, NumPy & Power BI              |
-| 🚀 Products  | Building Deployable AI Applications   |
-
-</div>
+| Area | Focus |
+|---|---|
+| 🐍 Python | Advanced Python & Problem Solving |
+| 🌐 Backend | Django, DRF & APIs |
+| 🤖 AI | Generative AI & LLM Applications |
+| 🧠 RAG | Retrieval, Embeddings & Vector Search |
+| 🔗 AI Agents | LangChain & Tool Calling |
+| 📊 Data | Pandas, NumPy & Power BI |
+| 🚀 Products | Building Deployable AI Applications |
 
 ---
 
@@ -443,10 +438,10 @@ Python
                  BUILD
                    │
                    ▼
-                EXPERIMENT
+              EXPERIMENT
                    │
                    ▼
-                 IMPROVE
+                IMPROVE
                    │
                    ▼
                  DEPLOY
@@ -465,11 +460,11 @@ AI-powered applications that solve real-world problems.
 <div align="center">
 
 <a href="https://github.com/pradyumna800">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<a href="https://www.linkedin.com/in/pradyumnabaral/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
 </div>
@@ -478,7 +473,7 @@ AI-powered applications that solve real-world problems.
 
 <div align="center">
 
-📧 **Email:** YOUR_EMAIL
+📧 **Email:** Add-your-email-here
 
 </div>
 
@@ -500,17 +495,10 @@ AI-powered applications that solve real-world problems.
 
 </div>
 
-<!-- ======================= FOOTER ======================= -->
+---
 
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" />
 
 </div>
-```
-
-**This time, replace the entire file**, not append this underneath your existing content.
-
-Your current file is only the short introduction shown on lines 190–205 of the GitHub file. The block above contains the rest: **tech stack → final-year RAG chatbot → current AI Document Assistant → completed projects → learning → DSA → GitHub stats → contribution graph → current focus → contact → footer**.
-
-After you commit it, refresh your profile. You should see a substantially longer profile README.
